@@ -1,0 +1,15 @@
+*   0db0ad7 Merge branch 'master' of https://github.com/milos-jakimovski/SI_2025_lab1_233021
+|\  
+| *   9e85305 Merge pull request #12 from milos-jakimovski/filter-tasks-by-category
+| |\  
+| | * 956849c Filter tasks by category
+| * |   dbe5a27 Merge pull request #13 from milos-jakimovski/list-tasks-sorted-by-name
+| |\ \  
+| | |/  
+| |/|   
+| | * ce3370b List tasks sorted by name
+| |/  
+* / 57d02f5 Count tasks per category
+|/  
+* e60c314 Add starter code
+* df94e2e Initial commit
