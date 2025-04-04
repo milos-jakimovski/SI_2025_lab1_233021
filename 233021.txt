@@ -1,1 +1,23 @@
 git fetch origin
+git checkout count-tasks-per-category
+tuka ja implementirav funkcijata vo java kodot
+git add SI2025Lab1Main.java
+git commit -m "Count tasks per category"
+git push origin count-tasks-per-category
+
+git checkout filter-tasks-by-category
+tuka ja implementirav funkcijata vo java kodot
+git add SI2025Lab1Main.java
+git commit -m "Filter tasks by category"
+git push origin filter-tasks-by-category
+
+git checkout list-tasks-sorted-by-name
+tuka ja implementirav funkcijata vo java kodot
+git add SI2025Lab1Main.java
+git commit -m "List tasks sorted by name"
+git push origin list-tasks-sorted-by-name
+
+git checkout master
+git pull
+git push origin master
+git log --oneline --graph --all > logs.txt
